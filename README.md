@@ -1,13 +1,11 @@
 ## Привет! 👋 Меня зовут Руслан
----
 Я начинающий Android-разработчик. Недавно окончил курс Яндекс Практикума и активно прокачиваю свои навыки.
 Работаю с Kotlin, Java, MVVM, Room и Coroutines. В своих проектах стараюсь следовать принципам SOLID и Clean Architecture.
 Сейчас изучаю Jetpack Compose. Хочу делать удобные, красивые и производительные Android-приложения.
 
 ---
 
-### 🛠️ Стек технологий  
----
+### 🛠️ Стек технологий
 - **Языки**: ![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  
 - **Android**: ![Android](https://img.shields.io/badge/Android_Studio-%233DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white) ![Android SDK](https://img.shields.io/badge/Android%20SDK-%2300C853.svg?style=for-the-badge&logo=android&logoColor=white) ![XML](https://img.shields.io/badge/XML-%23FFA000.svg?style=for-the-badge&logo=xml&logoColor=white) ![MediaPlayer](https://img.shields.io/badge/MediaPlayer-%233677F2.svg?style=for-the-badge&logo=android&logoColor=white)  
 - **Архитектуры**: ![MVC](https://img.shields.io/badge/MVC-%235C2D91.svg?style=for-the-badge&logo=codeigniter&logoColor=white) ![MVP](https://img.shields.io/badge/MVP-%231572B6.svg?style=for-the-badge&logo=android&logoColor=white) ![MVVM](https://img.shields.io/badge/MVVM-%23F7DF1E.svg?style=for-the-badge&logo=android&logoColor=black) ![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-%236DB33F.svg?style=for-the-badge&logo=android&logoColor=white)  
