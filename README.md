@@ -17,7 +17,7 @@
 
 ---
 
-##📊 Статистика##
+##📊 Статистика
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pyclan88&show_icons=true&theme=tokyonight)
 
 ---
