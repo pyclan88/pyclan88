@@ -17,6 +17,12 @@
 
 ---
 
+📚 **Сейчас изучаю**
+---
+- ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-%230095D5.svg?style=for-the-badge&logo=jetpack-compose&logoColor=white)  
+
+---
+
 📊 Статистика
 ---
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pyclan88&show_icons=true&theme=tokyonight)
