@@ -16,5 +16,3 @@
 - **Инструменты**: ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white) ![Glide](https://img.shields.io/badge/Glide-%2300C853.svg?style=for-the-badge&logo=android&logoColor=white) ![Dagger](https://img.shields.io/badge/Dagger-%23FFC107.svg?style=for-the-badge&logo=android&logoColor=black) ![Koin](https://img.shields.io/badge/Koin-%234285F4.svg?style=for-the-badge&logo=android&logoColor=white)  
 
 ---
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pyclan88&show_icons=true&theme=tokyonight)
